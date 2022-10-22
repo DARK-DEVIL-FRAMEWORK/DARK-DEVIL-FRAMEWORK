@@ -1,4 +1,4 @@
-![logo](https://github.com/Dark756/Dark756/blob/main/git_banner-.png)
+![logo](https://github.com/Dark756/Dark756/blob/main/benner.jpg)
 <h1 align="center">Hi 👋, I'm DARK DEVIL</h1>
 <h3 align="center">A FiveM developer from Bangladesh</h3>
 
