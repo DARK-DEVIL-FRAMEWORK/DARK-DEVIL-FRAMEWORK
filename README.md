@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm DARK DEVIL</h1>
 <h3 align="center">A FiveM developer from Bangladesh</h3>
 
-<img align="right" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="coding" width="400" />
+<img align="right" src="https://cdn.discordapp.com/attachments/1060302733988593764/1062492342394834944/me-2.gif" alt="coding" width="400" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dark756&label=Profile%20views&color=0e75b6&style=flat" alt="dark756" /> </p>
 
