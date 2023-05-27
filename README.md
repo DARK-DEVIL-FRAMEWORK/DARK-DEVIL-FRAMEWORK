@@ -6,7 +6,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dark756&label=Profile%20views&color=0e75b6&style=flat" alt="dark756" /> </p> -->
 
-- 🌱 I’m currently learning **Frameworks , HTML , CSS , js , lua.**
+<!-- - 🌱 I’m currently learning **Frameworks , HTML , CSS , js , lua.** -->
 
 - 📫 How to reach me **enanahmed4295@gmail.com**
 
