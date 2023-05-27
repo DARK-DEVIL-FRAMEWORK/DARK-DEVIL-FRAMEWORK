@@ -8,7 +8,7 @@
 
 <!-- - 🌱 I’m currently learning **Frameworks , HTML , CSS , js , lua.** -->
 
-- 📫 How to reach me **enanahmed4295@gmail.com**
+- 📫 How to reach me **darkdevil75658@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
