@@ -1,6 +1,6 @@
 ![logo](https://github.com/Dark756/Dark756/blob/main/FM.gif)  
 <h1 align="center">Hi 👋, I'm DARK DEVIL</h1>
-<h3 align="center">A FiveM developer from Bangladesh</h3>
+<h3 align="center">A GAME & Discord Bot developer from Bangladesh</h3>
 
 <img align="right" src="https://cdn.discordapp.com/attachments/1060302733988593764/1062492342394834944/me-2.gif" alt="coding" width="350" />
 
