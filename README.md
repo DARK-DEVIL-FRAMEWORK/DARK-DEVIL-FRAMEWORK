@@ -1,4 +1,4 @@
-![logo](**https://github.com/Dark756/Dark756/blob/main/FM.gif**)  
+![logo](https://cdn.discordapp.com/attachments/1067862669304012870/1136273189547290674/standard_2.gif)  
 <h1 align="center">Hi 👋, I'm DARK DEVIL</h1>
 <h3 align="center">A Game & Discord Bot Bangladesh</h3>
 
