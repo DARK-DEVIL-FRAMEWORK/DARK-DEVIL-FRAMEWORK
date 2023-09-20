@@ -1,4 +1,4 @@
-![logo](https://github.com/Dark756/Dark756/blob/main/FM.gif)  
+![logo](**https://github.com/Dark756/Dark756/blob/main/FM.gif**)  
 <h1 align="center">Hi 👋, I'm DARK DEVIL</h1>
 <h3 align="center">A Game & Discord Bot Bangladesh</h3>
 
@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **FiveM**
 
-- 🌱 I’m currently learning **C++, C#, Lua,Java, Java Script**
+- 🌱 I’m currently learning **C++, C#, Lua, Java, Java Script**
 
 - 📫 How to reach me **darkdevil75658@gmail.com**
 
