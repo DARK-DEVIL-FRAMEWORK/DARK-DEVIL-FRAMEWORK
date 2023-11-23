@@ -1,6 +1,6 @@
 ![logo](https://cdn.discordapp.com/attachments/1067862669304012870/1136273189547290674/standard_2.gif)  
 <h1 align="center">Hi 👋, I'm DARK DEVIL</h1>
-<h3 align="center">A Game & Discord Bot Bangladesh</h3>
+<h3 align="center">A Game & Discord Bot Developer From Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dark754&label=Profile%20views&color=0e75b6&style=flat" alt="dark754" /> </p>
 
