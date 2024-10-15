@@ -1,6 +1,6 @@
 ![logo](https://cdn.discordapp.com/attachments/1067862669304012870/1136273189547290674/standard_2.gif)  
 <h1 align="center">Hi 👋, I'm DARK DEVIL</h1>
-<h3 align="center">A Game & Discord Bot Developer From Bangladesh</h3>
+<h3 align="center">A Game Developer From Bangladesh</h3>
 
 - 🔭 I’m currently working on **FiveM & Unreal Engine 5**
 
