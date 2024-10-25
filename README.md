@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm DARK</h1>
-<h3 align="center">A passionate Game Developer & FiveM Moder From Bangladesh</h3>
+<h3 align="center">A Passionate Game Developer & FiveM Moder From Bangladesh</h3>
 
 - 🔭 I’m currently working on **Life From Beginning**
-
-- 🌱 I’m currently learning **Data Base**
 
 - 💬 Ask me about **Unreal Engine 5 & FiveM Mods**
 
 - 📫 How to reach me **darkdevil75658@gmail.com**
-
-- ⚡ Fun fact **I love to get error 🤣**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
